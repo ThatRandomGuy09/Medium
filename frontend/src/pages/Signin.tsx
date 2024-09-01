@@ -1,1 +1,7 @@
-export const Signin = () => {};
+export const Signin = () => {
+ return(
+    <>
+    Hello
+    </>
+ )
+};
