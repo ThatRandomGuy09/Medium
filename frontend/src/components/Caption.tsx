@@ -1,4 +1,4 @@
-export const Quote = () => {
+export const Caption = () => {
   return (
     <div className="bg-slate-200 h-screen flex justify-center flex-col">
       <div className="flex justify-center">
